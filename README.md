@@ -1,27 +1,3 @@
-<h3 align="center">
-Lloyd Iain Wright
-</h3>
-
-<h3 align="center">
-Principal Programmer
-</h3>
-
-<h3 align="center">
-Aug 2, 1978, English
-</h3>
-
-<h3 align="center">
-Ipswich, England
-</h3>
-
-<h4 align="center">
-<a target="_blank" href="https://www.linkedin.com/in/lloydiainwright">🔗LinkedIn</a>
-</h4>
-
-<h4 align="center">
-<a target="_blank" href="https://www.upwork.com/freelancers/~0102eebc04b6b10325?mp_source=share">🔗Upwork</a>
-</h4>
-
 <p>
 Principal Programmer with over 20 years' experience in game development.
 Proficient in multiple programming languages, including C++, C#, Java, and Python.
@@ -89,3 +65,11 @@ I'm currently looking for work, be it contract, part-time, or full-time.
 Please give me a shout at <a href="mailto:lloydiainwright@gmail.com">lloydiainwright@gmail.com</a> if you think I could be of use to you with your game dev journey.
 Many thanks, Lloyd.
 </p>
+
+<h4 align="center">
+<a target="_blank" href="https://www.linkedin.com/in/lloydiainwright">🔗LinkedIn</a>
+</h4>
+
+<h4 align="center">
+<a target="_blank" href="https://www.upwork.com/freelancers/~0102eebc04b6b10325?mp_source=share">🔗Upwork</a>
+</h4>
